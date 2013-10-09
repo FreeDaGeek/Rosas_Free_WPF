@@ -1,31 +1,42 @@
 /*** Created by Fridelande Rosas on 10/8/13***/
 //Shopping Bill
 
-//alert ("test")
+alert ("test")
 var shoppingBill = ["200", "175", "150", "150", "250"];
 console.log(shoppingBill);
 
 var totalBill = [200 + 175 + 150 + 150 + 250];
-console.log(totalBill);
-console.log(totalBill / 5);
-//print AverageBill (Are we to be able to write a sentence in the console.log?
+//
+console.log(totalBill); //total amount spent for 5 wks
+console.log(totalBill / 5); //averageBill
+
 
 //Dog Years
 
-var sparkyAge;
+var sparkyAge; //declared
 
-sparkyAge = 2;
+sparkyAge = 2; //The human years
 
-console.log( sparkyAge * 7);
+var dogAge; // The dog years
 
+dogAge = sparkyAge * 7;
+//sparkyAge multiply by 7
 
 //Discount
 
-var taxPrice;
-var nonTaxprice;
+var origPrice = 500; //original price
+var discountPer = 40 * origPrice; //discount percentage (40%)
+var taxPer = 0.06 * discountPer; // Sales Tax
 
-taxPrice = 100 - .2;
-    nonTaxPrice = 100 - .2;
+console.log(discountPer) // Discount Price without Tax
+console.log(taxPer) // Discount Price with Tax
+
+
+
+
+
+
+
 
 
 
