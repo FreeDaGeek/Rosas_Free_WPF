@@ -32,7 +32,7 @@ console.log(totalBill / 5); //averageBill
 //Discount
 
 var origPrice = 500; //original price
-var discountPer = .4 * origPrice; //discount percentage (40%)
+var discountPer = 40 * origPrice; //discount percentage (40%)
 var taxPer = 0.06 * discountPer; // Sales Tax
 
 console.log(discountPer - origPrice + taxPer);
