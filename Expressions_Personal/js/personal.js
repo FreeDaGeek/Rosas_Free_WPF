@@ -2,10 +2,10 @@
 //Fridelande Rosas  Date: 10/10/13
 
 
-var moviesRent = ["2", "1", "3", "1"]; //movies rented weekly for a month
+var moviesRent = [2, 1, 4, 1]; //movies rented weekly for a month
 console.log(moviesRent);
 
-var totalMovies = "moviesRent[0]" + "moviesRent[1]" + "moviesRent[2]" + "moviesRent[3]";
+var totalMovies = moviesRent[0] + moviesRent[1] + moviesRent[2] + moviesRent[3];
 console.log( totalMovies);
 
 var moviePrice;
