@@ -7,5 +7,5 @@ years = 3; //how long it took
 
 totalHairlength = 15; //hair length in inches
 
-console.log(years / totalHairlength);
+console.log(totalHairlength /years); //average hair growth every year
 
