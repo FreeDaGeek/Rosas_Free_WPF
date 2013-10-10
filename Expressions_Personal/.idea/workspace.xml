@@ -35,7 +35,7 @@
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Expressions_Worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="253" max-vertical-offset="990">
+            <state line="18" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="118" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
@@ -44,7 +44,7 @@
       <file leaf-file-name="personal.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.14246947" vertical-offset="0" max-vertical-offset="737">
+            <state line="18" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.36635005" vertical-offset="0" max-vertical-offset="737">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -292,14 +292,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../Expressions_Worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="638" selection-end="638" vertical-scroll-proportion="0.0" vertical-offset="253" max-vertical-offset="990">
+        <state line="18" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/personal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.14246947" vertical-offset="0" max-vertical-offset="737">
+        <state line="18" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="0.36635005" vertical-offset="0" max-vertical-offset="737">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
