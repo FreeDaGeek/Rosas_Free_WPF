@@ -11,19 +11,19 @@ if (payFull < 100){
 }else{
     console.log("Client has paid in full");
 }
-/////////////CALs
+/////////////CAL
 
 
 var maxCal= 600;
 var mealCal=800;
+var halfMeal=500;
 
 //If mealCal greater then maxCal
 
-if(mealCal >=  maxCal){
+if(mealCal >  maxCal){
+    //the meal is more them my max amount of calories
     console.log("No thanks, I'll have a salad.");
-}elseif(mealCal /2 < 500 );{
-//If I can split the mealCal with a friend
-console.log("I can eat some now and save for later.");
-}else{
-    console.log("This meal works for me!");
-    }
+}else if(mealCal <= halfMeal);{
+    //If I can split the mealCal with a friend
+    console.log("I can eat it, If I share it!");
+}
