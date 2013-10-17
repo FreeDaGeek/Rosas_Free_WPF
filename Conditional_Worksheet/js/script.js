@@ -1,47 +1,29 @@
-var compWeight;
 
-if(compWeight < 250){
-    //if less than 250
-    console.log("The competitor needs to gain some weight")
+
+//Ternary Operator
+var payFull = 100;
+(payFull < 100) ? console.log ("We aren't done yet") :  console.log ("You are good to go");
+
+///////Regular Conditional Below
+
+if (payFull < 100){
+    console.log( "Client owes me money");
 }else{
-    //if greater than 250
-    console.log("The competitor qualifies for the heavyweight division")
+    console.log("Client has paid in full");
 }
+/////////////CALs
 
 
+var maxCal= 600;
+var mealCal=800;
 
-//Gas
+//If mealCal greater then maxCal
 
-var mpg;
-var percentage;
-var carCapacity;
-
-if(){
-    console.log()
+if(mealCal >=  maxCal){
+    console.log("No thanks, I'll have a salad.");
+}elseif(mealCal /2 < 500 );{
+//If I can split the mealCal with a friend
+console.log("I can eat some now and save for later.");
 }else{
-    console.log()
-}
-
-
-//Grade Letter Cal
-
-var grade;
-
-if(){
-    console.log()
-}else{
-    console.log()
-}
-
-//Movie Tickets
-
-var timeOfmovies;
-var customerAge;
-
-
-if(){
-    console.log()
-}else{
-    console.log()
-}
-
+    console.log("This meal works for me!");
+    }
