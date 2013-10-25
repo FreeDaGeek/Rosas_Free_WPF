@@ -1,9 +1,14 @@
-/**
- * Created by Frosas32 on 10/24/13.
- */
-var massageCost = calculation(2, 10);
-//Calculation for call
-function calculation(massageLength, perhour){
-    return totalcost = callLength * perhour;
+//Halloween
+var sweetTreat = prompt("How much halloween candy did you eat for the day?"); //variable sweetTreat
+var  enoughCandy= 10 + "pieces"; //enoughCandy variable
+
+var totalAmount = function Water(){ //variable totalamount function
+    var totalMath = enoughCandy - sweetTreat; //variable total math
+    return totalMath; //return totalmath
 }
-console.log("It will cost you " + massageCost + "$ to get a 2 hour massage");
+
+var Candy = totalAmount(); //variable Candy
+
+!(sweetTreat > enoughCandy) ? console.log("No need to over do it, you have enough today.") : console.log("I don't see why you can have a few more");
+// ternary  cost you " + massageCost + "$ to get a 2 hour massage");
+
