@@ -17,6 +17,6 @@ else{ console.log("Your well rested")
 }
 
 function enoughSleep (sleeping , wideAwake){
-    var totalTimeSleeping = 24 - 16;
+    var totalTimeSleeping = 24 - 16; // This is missing the parameters
     return totalTimeSleeping
 }
